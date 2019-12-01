@@ -1,2 +1,2 @@
 # hello-world
-dummy
+First repository created using the guide
